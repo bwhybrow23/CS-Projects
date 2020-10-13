@@ -1,0 +1,10 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\bin\Debug\YearOfBirth.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\bin\Debug\YearOfBirth.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\bin\Debug\YearOfBirth.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.YearOfBirth.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\YearOfBirth\obj\Debug\YearOfBirth.csprojAssemblyReference.cache

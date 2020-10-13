@@ -1,0 +1,10 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
