@@ -1,0 +1,10 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\bin\Debug\NumberToWords.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\bin\Debug\NumberToWords.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\bin\Debug\NumberToWords.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.Form1.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\NumberToWords\obj\Debug\NumberToWords.pdb

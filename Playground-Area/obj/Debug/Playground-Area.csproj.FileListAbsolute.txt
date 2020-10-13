@@ -1,0 +1,10 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\bin\Debug\Playground-Area.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\bin\Debug\Playground-Area.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\bin\Debug\Playground-Area.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground-Area.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground_Area.Form1.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground_Area.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground-Area.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground-Area.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground-Area.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\Playground-Area\obj\Debug\Playground-Area.pdb

@@ -1,0 +1,6 @@
+- Input, Button, Output
+- Check if Input is integer and under 3999 (for the sake of simplicity)
+- Arrays of roman numerals (thousands, hundreds, tenths and ones)
+- Divide by 1000 for the thousands, 100 for hundreds, 10 for tenths, etc
+- Output final string
+- Catch any errors that could happen
