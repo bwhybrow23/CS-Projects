@@ -56,6 +56,10 @@ Username: Rick <br>
 Password: Astley <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Password.exe)**
 
+### Pong
+First proper assigned project. Little game of Pong (doesn't utilise AI so isn't the most fairest)
+**[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Pong.exe)**
+
 ### Playground Area
 Just a place for me to mess around, doesn't have an .exe either.
 
