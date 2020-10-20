@@ -29,10 +29,11 @@ None of this is perfect so there will be bugs, this is just projects that I've w
 - In the future, each folder will have a ReadMe file which will include more detail about it and a direct download link to the `.exe` for anyone who wants to test it.
 
 ## Breakdown
+
 ### Exe Files
  In here, you can find all the downloadable `.exe` files for every project folder, to save you from navigating the project folders for them. If you would like to find them in a folder, they'd typically be under `/bin/debug/` and then the `.exe` that is in there. 
  
- ### Calculator
+### Calculator
  This is just a basic ass calculator that was one of the first C# Projects I did. 
  **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Calculator.exe)**
 
@@ -40,6 +41,10 @@ None of this is perfect so there will be bugs, this is just projects that I've w
 Literally, the first project created and was used to follow along with the lecturer's instructions. Nothing big to be honest.
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Demonstration.exe)**
 
+### Calculator
+ Green Bottles song generator. Takes the number of green bottles and makes it into a song utilising a for loop.
+ **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/GreenBottles.exe)**
+ 
 ### Number to Words
 Converts a number to words.
 E.g - 69 = Sixty-nine

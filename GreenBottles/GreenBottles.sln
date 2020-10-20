@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenBottles", "GreenBottles.csproj", "{735EE61B-B616-4465-B342-8713027BD21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735EE61B-B616-4465-B342-8713027BD21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735EE61B-B616-4465-B342-8713027BD21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735EE61B-B616-4465-B342-8713027BD21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735EE61B-B616-4465-B342-8713027BD21C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E9B74F-06C3-4999-ADC3-DC4A5E485E49}
+	EndGlobalSection
+EndGlobal
