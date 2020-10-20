@@ -34,36 +34,36 @@ None of this is perfect so there will be bugs, this is just projects that I've w
  In here, you can find all the downloadable `.exe` files for every project folder, to save you from navigating the project folders for them. If you would like to find them in a folder, they'd typically be under `/bin/debug/` and then the `.exe` that is in there. 
  
 ### Calculator
- This is just a basic ass calculator that was one of the first C# Projects I did. 
+ This is just a basic ass calculator that was one of the first C# Projects I did. <br>
  **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Calculator.exe)**
 
 ### Demonstration
-Literally, the first project created and was used to follow along with the lecturer's instructions. Nothing big to be honest.
+Literally, the first project created and was used to follow along with the lecturer's instructions. Nothing big to be honest.<br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Demonstration.exe)**
 
-### Calculator
+### Green Bottles
  Green Bottles song generator. Takes the number of green bottles and makes it into a song utilising a for loop.
  **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/GreenBottles.exe)**
  
 ### Number to Words
-Converts a number to words.
-E.g - 69 = Sixty-nine
+Converts a number to words.<br>
+E.g - 69 = Sixty-nine<br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/NumberToWords.exe)**
 
 ### Password
-Most basic login page. All data is hardcoded. 
-Username: Rick
-Password: Astley
+Most basic login page. All data is hardcoded. <br>
+Username: Rick <br>
+Password: Astley <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Password.exe)**
 
 ### Playground Area
 Just a place for me to mess around, doesn't have an .exe either.
 
 ### Roman Numeral Converter
-Converts a number to roman numerals.
-E.g - 69 = LXIX
+Converts a number to roman numerals. <br>
+E.g - 69 = LXIX <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Roman%20Numeral%20Converter.exe)**
 
 ### Year of Birth
-Finds your year of birth from your age and whether you've had a birthday yet or not.
+Finds your year of birth from your age and whether you've had a birthday yet or not. <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/YearOfBirth.exe)**
