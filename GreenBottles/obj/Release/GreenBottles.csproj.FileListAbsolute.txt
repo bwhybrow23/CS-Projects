@@ -1,0 +1,9 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\bin\Release\GreenBottles.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\bin\Release\GreenBottles.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\bin\Release\GreenBottles.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.Form1.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\GreenBottles\obj\Release\GreenBottles.pdb
