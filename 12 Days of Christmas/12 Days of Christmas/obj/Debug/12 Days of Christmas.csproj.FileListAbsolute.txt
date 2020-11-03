@@ -1,0 +1,10 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\bin\Debug\12 Days of Christmas.exe.config
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\bin\Debug\12 Days of Christmas.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\bin\Debug\12 Days of Christmas.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\12 Days of Christmas.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\_12_Days_of_Christmas.Form1.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\_12_Days_of_Christmas.Properties.Resources.resources
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\12 Days of Christmas.csproj.GenerateResource.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\12 Days of Christmas.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\12 Days of Christmas.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\Visual Studio Projects\12 Days of Christmas\12 Days of Christmas\obj\Debug\12 Days of Christmas.pdb

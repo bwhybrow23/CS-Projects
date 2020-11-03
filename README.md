@@ -33,6 +33,10 @@ None of this is perfect so there will be bugs, this is just projects that I've w
 ### Exe Files
 In here, you can find all the downloadable `.exe` files for every project folder, to save you from navigating the project folders for them. If you would like to find them in a folder, they'd typically be under `/bin/debug/` and then the `.exe` that is in there. 
  
+### 12 Days of Christmas
+This is just a basic use of for and while loops to give the lyrics of the 12 Days of Christmas song.<br>
+**[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/12DoC.exe)**
+ 
 ### Calculator
 This is just a basic ass calculator that was one of the first C# Projects I did. <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Calculator.exe)**
