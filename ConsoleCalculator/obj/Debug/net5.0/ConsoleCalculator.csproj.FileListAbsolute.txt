@@ -1,0 +1,16 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.deps.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ref\ConsoleCalculator.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ref\ConsoleCalculator.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.genruntimeconfig.cache

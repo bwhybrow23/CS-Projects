@@ -1,0 +1,16 @@
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.exe
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.deps.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.runtimeconfig.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.runtimeconfig.dev.json
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ref\ConsoleCalcultor.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\bin\Debug\net5.0\ConsoleCalcultor.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.csprojAssemblyReference.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.AssemblyInfoInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.AssemblyInfo.cs
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.csproj.CoreCompileInputs.cache
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ref\ConsoleCalcultor.dll
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.pdb
+C:\Users\stent\OneDrive - South Gloucestershire and Stroud College\2. Programming\1. Visual Studio Projects\ConsoleCalcultor\obj\Debug\net5.0\ConsoleCalcultor.genruntimeconfig.cache
