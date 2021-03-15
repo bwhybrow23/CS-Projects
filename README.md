@@ -41,6 +41,10 @@ This is just a basic use of for and while loops to give the lyrics of the 12 Day
 This is just a basic ass calculator that was one of the first C# Projects I did. <br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Calculator.exe)**
 
+### Console Calculator
+A basic console calculator (first project in JetBrains Rider. <br>
+**[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/ConsoleCalculator.exe)**
+
 ### Demonstration
 Literally, the first project created and was used to follow along with the lecturer's instructions. Nothing big to be honest.<br>
 **[Exe File](https://github.com/bwhybrow23/cs-projects/raw/main/1.%20EXE%20Files/Demonstration.exe)**
